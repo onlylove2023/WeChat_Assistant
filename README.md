@@ -121,5 +121,5 @@ https://0xilis.github.io/rootless/
 https://ios.jjolano.me/
 https://repo.ikghd.me/
 https://cydia.rob311.com/repo/
-微信净化插件网址
+❌微信净化插件网址
 https://pan.jweiy.cn/Netskao.wcpureextension
